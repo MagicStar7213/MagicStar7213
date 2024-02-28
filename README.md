@@ -16,6 +16,7 @@ Just a teen learning to code
 ## 🏆 MY STATS
   <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=magicstar7213&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
   <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magicstar7213&layout=compact&theme=dark" />&nbsp;&nbsp;
+  <a href="https://app.daily.dev/magicstar7213"><img src="./devcard.png" width="652" alt="MagicStar's Dev Card"/></a>&nbsp;&nbsp;
 
 ## WHILE AFK
 ![Steam](https://img.shields.io/badge/-Steam-0d4475?style=for-the-badge&logo=steam)
